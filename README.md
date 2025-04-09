@@ -1,10 +1,10 @@
-# flutter_based_application
+# EXS_flutter_based_application
 
-A new Flutter project.
+A flutter-based application for EXS Synergy Technical Assessment
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a technical assessment flutter-based.
 
 A few resources to get you started if this is your first Flutter project:
 
